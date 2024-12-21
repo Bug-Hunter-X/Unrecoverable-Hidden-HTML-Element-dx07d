@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML where an element is hidden and its content is cleared, making it unrecoverable without a page refresh. The bug.html file shows the problematic code. The bugSolution.html file provides a corrected version.
